@@ -4,7 +4,7 @@
 This project was built for the last project into the [Udacity Intro to Programming Nanodegree Program](https://udacity.com/course/ud011). The aim of the project was to be able to have a good understanding of concepts
 relating to DOM Manipulation, CRUD contents and Browser Events with the JavaScript programming language.
 We used HTML, CSS and JavaScript technologies to build this project.
-![screenshot](myImageArt.jpg)
+![screenshot](myImageArt.JPG)
 * [Instructions](#instructions)
 * [Author](#contributing)
 
